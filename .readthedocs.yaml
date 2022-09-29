@@ -15,7 +15,7 @@ build:
      # rust: "1.55"
      # golang: "1.17"
 
-python:
+#python:
   # Install our python package before building the docs
 #   install:
 #     - method: pip
