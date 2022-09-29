@@ -17,9 +17,9 @@ build:
 
 python:
   # Install our python package before building the docs
-  install:
-    - method: pip
-      path: .
+#   install:
+#     - method: pip
+#       path: .
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
